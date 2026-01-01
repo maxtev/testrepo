@@ -4,4 +4,4 @@
 
 Its a markdown in this repository.
 
-Project testrepo: Git flow training for New Project.
+Project testrepo: Git flow training for New Project (dev update).
